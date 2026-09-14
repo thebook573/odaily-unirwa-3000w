@@ -63,37 +63,37 @@ window.articleData = {
     }
   ],
   "news24h": [
-    {
-      "publishedAt": "2026-09-08 15:21",
-      "title": "重仓450万美元Robinhood Meme和DeFi老牌龙头资产的巨鲸买入401.3万枚4Stock",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516278"
-    },
-    {
-      "publishedAt": "2026-09-08 15:17",
-      "title": "CMC：Gate 8月RWA永续合约交易量全球第三，6至8月增速位居行业第一",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516277"
-    },
-    {
-      "publishedAt": "2026-09-08 15:08",
-      "title": "知情人士：木头姐的Ark Invest或成为SEC豁免的首家代币化证券资管机构",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516275"
-    },
-    {
-      "publishedAt": "2026-09-08 14:56",
-      "title": "BSC上Meme币4Stock市值回升突破5000万美元",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516273"
-    },
-    {
-      "publishedAt": "2026-09-08 14:50",
-      "title": "FORM短时上涨突破0.35美元，日内涨超20%",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516272"
-    },
-    {
-      "publishedAt": "2026-09-08 14:42",
-      "title": "BTC多单规模缩至约400万美元，麻吉大哥40倍杠杆减仓确认亏损32万美元",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516270"
-    }
-  ],
+  {
+    "publishedAt": "2026-09-14 20:16",
+    "title": "美股存储板块盘前扩大跌幅，主要个股均跌超6%",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517708"
+  },
+  {
+    "publishedAt": "2026-09-14 20:13",
+    "title": "USDC Treasury在Solana链上新增铸造2.5亿枚USDC",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517705"
+  },
+  {
+    "publishedAt": "2026-09-14 20:09",
+    "title": "特朗普力促CLARITY法案闯关参议院，同意约80%伦理规则修改方案",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517704"
+  },
+  {
+    "publishedAt": "2026-09-14 20:06",
+    "title": "Strategy美元久期为3.9年，STRC比特币信用利差为57个基点",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517702"
+  },
+  {
+    "publishedAt": "2026-09-14 20:04",
+    "title": "Strive增持469枚BTC，总持仓规模达2.5万枚",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517701"
+  },
+  {
+    "publishedAt": "2026-09-14 20:03",
+    "title": "阿联酋采用Avalanche支持国家数字身份基础设施",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517700"
+  }
+],
   "hotNews": [
     {
       "publishedAt": "2026-09-08 15:08",
