@@ -1,0 +1,24 @@
+{
+  "reference_desktop": "https://www.odaily.news/zh-CN/newsflash/515884",
+  "reference_mobile": "https://m.odaily.news/zh-CN/newsflash/515884",
+  "captured_date": "2026-09-14",
+  "sources": {
+    "navigation_footer_recommendations_news24h": "Desktop reference HTML anchors",
+    "mobile_social_links": "Mobile reference HTML anchors",
+    "locales": "Desktop reference head alternate hreflang URLs",
+    "search": "Desktop original search component: window.location.href=\"/search?keywords=\" + encodeURIComponent(term)",
+    "mobile_search": "Mobile original Header router: push(\"/search\") with locale routing",
+    "mobile_notifications": "Mobile original Header router: push(\"/push-message\") with locale routing",
+    "login": "Original client opens an authentication modal, with API-backed SMS/email/password authentication. This static version provides an explicit link to continue on the official site.",
+    "android": "Original desktop Android label has no href. Static version links to the verified official download route.",
+    "current_article_data": "User-provided UniRwa node recruitment screenshot/data; source URL intentionally left blank"
+  },
+  "visual_reference": {
+    "mobile_header": "Official mobile screenshot supplied by user; original mobile CSS and assets",
+    "article_time": "2026-09-14 19:25 (UTC+8), current UniRwa newsflash update",
+    "hot_first_item": "516275 pinned first to match supplied screenshot; other items retain original reference order",
+    "market_values": "Static snapshot; CSS animates position, no live data API",
+    "current_article": "UniRwa global node recruitment > 30,000,000 USDT; 13,419 standard nodes; 1,602 super nodes; recruitment ends in 7 days"
+  },
+  "browser_validation": "Local file access was denied by preview browser URL policy; no browser screenshot or click acceptance claimed."
+}

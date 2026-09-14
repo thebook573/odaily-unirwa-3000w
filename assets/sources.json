@@ -1,0 +1,227 @@
+[
+  {
+    "file": "brand/odaily-logo.svg",
+    "source": "https://www.odaily.news/_next/static/media/logo-banner.71275261.svg"
+  },
+  {
+    "file": "brand/odaily-logo-dark.svg",
+    "source": "https://www.odaily.news/_next/static/media/logo-banner.42f135ab.svg"
+  },
+  {
+    "file": "icons/nav-home.svg",
+    "source": "https://www.odaily.news/_next/static/media/home-active.01d87f92.svg"
+  },
+  {
+    "file": "icons/nav-news.svg",
+    "source": "https://www.odaily.news/_next/static/media/newsflash.40c2df11.svg"
+  },
+  {
+    "file": "icons/nav-deep.svg",
+    "source": "https://www.odaily.news/_next/static/media/deep.9de58d02.svg"
+  },
+  {
+    "file": "icons/nav-post.svg",
+    "source": "https://www.odaily.news/_next/static/media/post.b1ca67d7.svg"
+  },
+  {
+    "file": "icons/nav-hot.svg",
+    "source": "https://www.odaily.news/_next/static/media/hot.8024e4e4.svg"
+  },
+  {
+    "file": "icons/nav-topic.svg",
+    "source": "https://www.odaily.news/_next/static/media/topic.cad39d27.svg"
+  },
+  {
+    "file": "icons/nav-activity.svg",
+    "source": "https://www.odaily.news/_next/static/media/activity.75571779.svg"
+  },
+  {
+    "file": "icons/nav-viewpoint.svg",
+    "source": "https://www.odaily.news/_next/static/media/viewpoint.00156934.svg"
+  },
+  {
+    "file": "icons/nav-tool.svg",
+    "source": "https://www.odaily.news/_next/static/media/tool.ff7e8cf3.svg"
+  },
+  {
+    "file": "icons/nav-download.svg",
+    "source": "https://www.odaily.news/_next/static/media/download.974d9d86.svg"
+  },
+  {
+    "file": "icons/settings.svg",
+    "source": "https://www.odaily.news/_next/static/media/settings.49fbb0eb.svg"
+  },
+  {
+    "file": "icons/more.svg",
+    "source": "https://www.odaily.news/_next/static/media/more.40fe2f86.svg"
+  },
+  {
+    "file": "icons/theme-light.svg",
+    "source": "https://www.odaily.news/_next/static/media/theme-switch-close.c166a3a1.svg"
+  },
+  {
+    "file": "icons/avatar.svg",
+    "source": "https://www.odaily.news/_next/static/media/no-login-avatar.3493bde2.svg"
+  },
+  {
+    "file": "icons/source-link.svg",
+    "source": "https://www.odaily.news/_next/static/media/source-link.595bf919.svg"
+  },
+  {
+    "file": "icons/translate.svg",
+    "source": "https://www.odaily.news/_next/static/media/translate.6c9083a3.svg"
+  },
+  {
+    "file": "icons/like.svg",
+    "source": "https://www.odaily.news/_next/static/media/like.e081bd6a.svg"
+  },
+  {
+    "file": "icons/collect.svg",
+    "source": "https://www.odaily.news/_next/static/media/collect.342b3107.svg"
+  },
+  {
+    "file": "icons/share-x.svg",
+    "source": "https://www.odaily.news/_next/static/media/twitter.6ddce2f7.svg"
+  },
+  {
+    "file": "icons/share-telegram.svg",
+    "source": "https://www.odaily.news/_next/static/media/telegram.aa399de9.svg"
+  },
+  {
+    "file": "icons/share-link.svg",
+    "source": "https://www.odaily.news/_next/static/media/link.67719c94.svg"
+  },
+  {
+    "file": "icons/share-photo.svg",
+    "source": "https://www.odaily.news/_next/static/media/photo.f200b9f0.svg"
+  },
+  {
+    "file": "icons/search.svg",
+    "source": "https://www.odaily.news/_next/static/media/search-box-icon.e1ffe8e9.svg"
+  },
+  {
+    "file": "icons/apple.svg",
+    "source": "https://www.odaily.news/_next/static/media/download-apple-icon.95cac4e3.svg"
+  },
+  {
+    "file": "icons/android.svg",
+    "source": "https://www.odaily.news/_next/static/media/download-android-icon.892079ea.svg"
+  },
+  {
+    "file": "icons/social-phone.svg",
+    "source": "https://www.odaily.news/_next/static/media/tool-phone.32928a73.svg"
+  },
+  {
+    "file": "icons/social-x.svg",
+    "source": "https://www.odaily.news/_next/static/media/tool-twitter.bbbdf385.svg"
+  },
+  {
+    "file": "icons/social-telegram.svg",
+    "source": "https://www.odaily.news/_next/static/media/tool-telegram.b45155ad.svg"
+  },
+  {
+    "file": "icons/social-cooperate.svg",
+    "source": "https://www.odaily.news/_next/static/media/tool-cooperate.4609339b.svg"
+  },
+  {
+    "file": "images/app-qr.png",
+    "source": "https://oss.odaily.top/base/download-qr.png"
+  },
+  {
+    "file": "og-cover.png",
+    "source": "本项目自制排版，使用官方 Logo 和本次 UniRwa 节点招募数据"
+  },
+  {
+    "file": "icons/mobile-menu.svg",
+    "source": "https://m.odaily.news/_next/static/media/menu.5683e108.svg"
+  },
+  {
+    "file": "icons/mobile-bell.svg",
+    "source": "https://m.odaily.news/_next/static/media/message.9b742ab1.svg"
+  },
+  {
+    "file": "brand/odaily-mobile-logo.svg",
+    "source": "https://m.odaily.news/_next/static/media/logo-title.6845dc46.svg"
+  },
+  {
+    "file": "icons/mobile-search-box.svg",
+    "source": "https://m.odaily.news/_next/static/media/search-box.2b1d3f94.svg"
+  },
+  {
+    "file": "icons/mobile-language.svg",
+    "source": "https://m.odaily.news/_next/static/media/translate.32314932.svg"
+  },
+  {
+    "file": "icons/market-up.svg",
+    "source": "https://m.odaily.news/_next/static/media/green-triangle-top.0d5c016b.svg"
+  },
+  {
+    "file": "icons/market-down.svg",
+    "source": "https://m.odaily.news/_next/static/media/red-triangle-down.82f1659a.svg"
+  },
+  {
+    "file": "icons/mobile-link.svg",
+    "source": "https://m.odaily.news/_next/static/media/link.a44bd734.svg"
+  },
+  {
+    "file": "icons/fire.svg",
+    "source": "https://m.odaily.news/_next/static/media/fire.62eaffbb.svg"
+  },
+  {
+    "file": "icons/mobile-download.svg",
+    "source": "https://m.odaily.news/_next/static/media/download.262306c3.svg"
+  },
+  {
+    "file": "icons/mobile-x.svg",
+    "source": "https://m.odaily.news/_next/static/media/twitter.fd938d30.svg"
+  },
+  {
+    "file": "icons/mobile-discord.svg",
+    "source": "https://m.odaily.news/_next/static/media/discard.2df13e46.svg"
+  },
+  {
+    "file": "icons/mobile-telegram-group.svg",
+    "source": "https://m.odaily.news/_next/static/media/telegram-group.91d3e2c4.svg"
+  },
+  {
+    "file": "icons/mobile-telegram-channel.svg",
+    "source": "https://m.odaily.news/_next/static/media/telegram-channel.4041e9f8.svg"
+  },
+  {
+    "file": "images/download-monkey.png",
+    "source": "https://m.odaily.news/_next/static/media/download-tips-monkey.6c504fce.png"
+  },
+  {
+    "file": "images/download-tip.png",
+    "source": "https://m.odaily.news/_next/static/media/download-tips-bg3.825f8fbb.png"
+  },
+  {
+    "file": "brand/favicon.svg",
+    "source": "https://www.odaily.news/logo.svg"
+  },
+  {
+    "file": "fonts/MiSans.ttf",
+    "source": "https://m.odaily.news/_next/static/media/5df5dd642ff277f7-s.p.ttf",
+    "note": "原站 MiSans Latin VF，中文使用系统字体回退"
+  },
+  {
+    "file": "fonts/HuoShanHanShi.woff2",
+    "source": "https://m.odaily.news/_next/static/media/c9e6354a3dd96f07-s.p.woff2",
+    "note": "原站最热快讯标题字体"
+  },
+  {
+    "file": "brand/favicon.ico",
+    "source": "https://www.odaily.news/logo.svg",
+    "note": "由官方原始 SVG 转换为 ICO，未重绘"
+  },
+  {
+    "file": "brand/apple-touch-icon.png",
+    "source": "https://www.odaily.news/logo.svg",
+    "note": "由官方原始 SVG 转换为 180×180 PNG，未重绘"
+  },
+  {
+    "file": "brand/favicon-64.png",
+    "source": "https://www.odaily.news/logo.svg",
+    "note": "由官方原始 SVG 转换为 PNG，未重绘"
+  }
+]

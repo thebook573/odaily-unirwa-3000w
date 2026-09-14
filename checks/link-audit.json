@@ -1,0 +1,11 @@
+{
+  "scope": "Static HTML, data URLs and local resources; does not claim browser or remote availability testing",
+  "anchor_total": 99,
+  "valid_href_total": 99,
+  "web_links": 97,
+  "local_fragment_links": 1,
+  "local_file_links": 1,
+  "placeholder_links": 0,
+  "errors": [],
+  "status": "passed"
+}
