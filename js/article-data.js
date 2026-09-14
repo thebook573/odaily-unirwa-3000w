@@ -95,42 +95,42 @@ window.articleData = {
   }
 ],
   "hotNews": [
-    {
-      "publishedAt": "2026-09-08 15:08",
-      "title": "知情人士：木头姐的Ark Invest或成为SEC豁免的首家代币化证券资管机构",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516275",
-      "summary": "Odaily星球日报讯 The Rollup 播客栏目主持人 Andy 于 X 发文表示：“我们收到了相当可靠的消息，‘木头姐’（Cathie Wood）旗下的方舟资本（ARK Invest）将成为首批根据美国 SEC ‘创新豁免’（Innovation Exemption）政策、通过过户代理机构（transfer agent）上线代币化证券的资产管理机构之一。该计划将先从 Ark 旗下的基金开始，随后进一步铺开。富达（Fidelity）、WisdomTree 等几家机构也很可能会跟进。”"
-    },
-    {
-      "publishedAt": "2026-09-08 15:21",
-      "title": "重仓450万美元Robinhood Meme和DeFi老牌龙头资产的巨鲸买入401.3万枚4Stock",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516278",
-      "summary": "Odaily星球日报讯 据链上分析师 Ai 姨监测，某巨鲸过去 1 小时花费 19.4 万美元买入 401.3 万枚 4Stock，成交价格为 0.04833 美元。该资产现已成为其链上第四大持仓，也是其继 PONS、CASHCAT、已清仓的 UNI、AAVE、FORM 之后选择的第六个标的。该巨鲸昨日新建 FORM 仓位，FORM 今日上涨 22%。"
-    },
-    {
-      "publishedAt": "2026-09-08 14:50",
-      "title": "FORM短时上涨突破0.35美元，日内涨超20%",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516272",
-      "summary": "Odaily星球日报讯 据 GMGN 行情数据，FORM 短时上涨突破 0.35 美元，日内涨超 20%，现报 0.3254 美元。"
-    },
-    {
-      "publishedAt": "2026-09-08 14:00",
-      "title": "Bitget上线算力盘前永续合约，首期标的H100、B200",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516262",
-      "summary": "Odaily星球日报讯 据官方公告，Bitget 上线面向零售用户的算力盘前永续合约 H100 及 B200，分别挂钩 NVIDIA H100 及 B200 GPU 租赁价格指数，报价单位为美元/每 GPU 小时。Bitget 算力盘前永续合约将交易标的进一步延伸至 AI 算力领域，通过追踪 GPU 租赁市场指数价格，让用户提前参与全球 GPU 算力租赁价格及 AI 基础设施市场的价格发现，捕捉 H100、B200 等高性能 GPU 算力需求变化带来的潜在交易机会。产品采用 USDT 结算的永续合约模式，最高支持 10 倍杠杆，并支持 7×24 小时交易。"
-    },
-    {
-      "publishedAt": "2026-09-08 13:30",
-      "title": "星球午讯",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516247",
-      "summary": "1.Polymarket 上新“LAPTOP 上线一天后最高 FDV”；2.GMGN 过去 24 小时收入达 211 万美元，超过 Robinhood Chain 位列第三；3.predict.fun 上 Variational 上线一天后 FDV 将触及 10 亿美元概率涨至 59.7%；4.巨鲸 Loracle 转向做多黄金与铜，多数空头仓位仍处浮亏；5.CZ：IPO 将迁移至链上；6.Uniswap 创始人：UNI 近 7 日年化销毁额升至约 2.63 亿美元；7.消息人士：Anthropic 据悉放弃 60 亿美元收购 Decart 的交易；8.持有 3.53 亿美元 Hyperliquid ETH 空头，Abraxas Capital 买入 1.3 万枚 ETH 对冲。"
-    },
-    {
-      "publishedAt": "2026-09-08 13:29",
-      "title": "知情人士：CLARITY或将被拆分为多个独立法案，以针对不同细分板块",
-      "url": "https://www.odaily.news/zh-CN/newsflash/516257",
-      "summary": "Odaily星球日报讯 The Rollup 播客栏目主持人 Andy 于 X 发文表示，目前国会山方面的传闻是，《CLARITY》法案（CLARITY Act）通过的可能性几乎为零，虽然 Polymarket 上的预测概率显示为 18%，但实际可能只有 3%–5% 左右。据其了解，华盛顿特区内部普遍心知肚明该法案不可能通过，但没人能公开说明这一点，因为行业此前为了推动其落地，已经砸下了数千万美元和长达 18 个月的资源。民主党对于特朗普在加密领域的利益往来这一伦理道德质询，目前仍未得到实质答复。以此来看，预测市场上 YES 的赔率大概偏高，NO 或许是个值得关注的方向。Andy：“《CLARITY》法案后续可能会被“拆分起草为若干独立法案”，分别针对加密市场的具体细分板块。在《CLARITY》 法案折戟之后，接踵而至的可能是针对稳定币、资产代币化（Tokenization）、永续合约以及预测市场的创新豁免政策、法令或细分法案。在当前阶段，议员们更倾向于采取细分且精细化的处理路径，而非推出一部面面俱到、涉及广泛的庞大加密法案。从我和华盛顿圈内人士的沟通来看，这才是远期更可能发生的情形。”"
-    }
-  ],
+  {
+    "publishedAt": "2026-09-14 20:16",
+    "title": "美股存储板块盘前扩大跌幅，主要个股均跌超6%",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517708",
+    "summary": "Odaily星球日报讯 美股存储板块盘前扩大跌幅，主要个股均跌超6%，市场短线波动明显加剧。"
+  },
+  {
+    "publishedAt": "2026-09-14 20:13",
+    "title": "USDC Treasury在Solana链上新增铸造2.5亿枚USDC",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517705",
+    "summary": "Odaily星球日报讯 链上数据显示，USDC Treasury在Solana链上新增铸造2.5亿枚USDC。"
+  },
+  {
+    "publishedAt": "2026-09-14 20:09",
+    "title": "特朗普力促CLARITY法案闯关参议院，同意约80%伦理规则修改方案",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517704",
+    "summary": "Odaily星球日报讯 特朗普正推动CLARITY法案闯关参议院，并同意约80%的伦理规则修改方案，加密市场监管立法进展再次受到关注。"
+  },
+  {
+    "publishedAt": "2026-09-14 20:06",
+    "title": "Strategy美元久期为3.9年，STRC比特币信用利差为57个基点",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517702",
+    "summary": "Odaily星球日报讯 Strategy相关数据显示，其美元久期为3.9年，STRC比特币信用利差为57个基点。"
+  },
+  {
+    "publishedAt": "2026-09-14 20:04",
+    "title": "Strive增持469枚BTC，总持仓规模达2.5万枚",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517701",
+    "summary": "Odaily星球日报讯 Strive新增持有469枚BTC，其比特币总持仓规模已达到约2.5万枚。"
+  },
+  {
+    "publishedAt": "2026-09-14 20:03",
+    "title": "阿联酋采用Avalanche支持国家数字身份基础设施",
+    "url": "https://www.odaily.news/zh-CN/newsflash/517700",
+    "summary": "Odaily星球日报讯 阿联酋采用Avalanche技术支持国家数字身份基础设施建设，区块链技术进一步进入国家级数字基础设施应用场景。"
+  }
+],
   "sourcePageUrl": ""
 };
